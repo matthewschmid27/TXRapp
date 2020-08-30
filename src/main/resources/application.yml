@@ -5,6 +5,6 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://bankdb.cmprwbxrseeb.us-east-1.rds.amazonaws.com
+    url: jdbc:mysql://bankdb.cmprwbxrseeb.us-east-1.rds.amazonaws.com:3306/bank_db
     username: admin 
     password: Admin123

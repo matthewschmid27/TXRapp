@@ -1,0 +1,10 @@
+server:
+  port: 5000
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://bank-db.colzurmrtogm.us-east-2.rds.amazonaws.com
+    username: admin123 
+    password: Admin123
